@@ -1,3 +1,5 @@
+-- PLEASE READ THE README FILE
+
 local player_name = game:GetService("Players").LocalPlayer.Name
 local webhook_url = "url"
 
